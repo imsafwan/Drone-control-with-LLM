@@ -23,7 +23,7 @@ This project demonstrates a natural language-driven control of a Tello drone usi
 ### Clone the Repository
 1. To start, clone this repository into your local environment:
 ```bash
-git clone https://github.com/yourusername/drone_control_with_llm.git
+git clone https://github.com/imsafwan/Drone-control-with-LLM.git
 ```
 
 
