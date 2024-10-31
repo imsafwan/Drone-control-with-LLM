@@ -11,7 +11,7 @@ This project demonstrates a natural language-driven control of a Tello drone usi
    ```bash
    pip install djitellopy
    ```
-3 **OpenAI API Client Library**  
+3. **OpenAI API Client Library**  
    Install OpenAI's API client library:
    ```bash
    pip install openai
