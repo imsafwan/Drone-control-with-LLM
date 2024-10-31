@@ -30,7 +30,6 @@ git clone https://github.com/yourusername/drone_control_with_llm.git
 2. To execute the main script:
 
 ```bash
-Copy code
 python gpt_tello.py
 ```
 
