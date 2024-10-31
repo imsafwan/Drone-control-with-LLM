@@ -34,4 +34,4 @@ Copy code
 python gpt_tello.py
 ```
 
-   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
+  
