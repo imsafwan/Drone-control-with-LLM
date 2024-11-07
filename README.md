@@ -42,7 +42,7 @@ To run Demo 1:
 ```bash
 cd Scripts
 python gpt_tello.py
-
+```
 Demo 1
 [![YouTube](http://i.ytimg.com/vi/5HCtiNPGZvM/hqdefault.jpg)](https://www.youtube.com/watch?v=5HCtiNPGZvM)
 
