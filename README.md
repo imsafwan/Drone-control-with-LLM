@@ -43,7 +43,7 @@ To run Demo 1:
 cd Scripts
 python gpt_tello.py
 ```
-Demo 1 \\
+Demo 1 <br>
 [![YouTube](http://i.ytimg.com/vi/5HCtiNPGZvM/hqdefault.jpg)](https://www.youtube.com/watch?v=5HCtiNPGZvM)
 
 
@@ -58,8 +58,7 @@ To run Demo 2:
 cd Scripts
 python gpt_tello_v2.py
 ```
-Demo 2 \\
-
+Demo 2 <br>
 [![YouTube](http://i.ytimg.com/vi/5HCtiNPGZvM/hqdefault.jpg)](https://www.youtube.com/watch?v=5HCtiNPGZvM)
 
   
