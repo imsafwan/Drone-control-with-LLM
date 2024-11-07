@@ -18,7 +18,7 @@ This project demonstrates a natural language-driven control of a Tello drone usi
    pip install openai
    ```
 4. ** Transfomer Library ** 
-Install the `transformers` library for Vision-Language Model (VLM) support, e.g., BLIP:
+Install the **`transformers`** library for Vision-Language Model (VLM) support, e.g., BLIP:
 ```bash
 pip install transformers
 ```
@@ -43,7 +43,7 @@ To run Demo 1:
 cd Scripts
 python gpt_tello.py
 ```
-Demo 1
+Demo 1 \\
 [![YouTube](http://i.ytimg.com/vi/5HCtiNPGZvM/hqdefault.jpg)](https://www.youtube.com/watch?v=5HCtiNPGZvM)
 
 
@@ -58,7 +58,8 @@ To run Demo 2:
 cd Scripts
 python gpt_tello_v2.py
 ```
-Demo 2
+Demo 2 \\
+
 [![YouTube](http://i.ytimg.com/vi/5HCtiNPGZvM/hqdefault.jpg)](https://www.youtube.com/watch?v=5HCtiNPGZvM)
 
   
