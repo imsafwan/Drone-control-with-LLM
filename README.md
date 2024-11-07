@@ -59,7 +59,7 @@ cd Scripts
 python gpt_tello_v2.py
 ```
 Demo 2 <br>
-[![YouTube](http://i.ytimg.com/vi/5HCtiNPGZvM/hqdefault.jpg)](https://www.youtube.com/watch?v=5HCtiNPGZvM)
+[![YouTube](http://i.ytimg.com/vi/SgcMO7BLR64/hqdefault.jpg)](https://www.youtube.com/watch?v=SgcMO7BLR64)
 
   
   
