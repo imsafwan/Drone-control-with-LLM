@@ -1,6 +1,6 @@
 # Drone Control with Natural Language Commands
 <div align="center">
-  <img src=LLM.png" alt="GPS Nav" width="500"/>
+  <img src=/LLM.png" alt="LLM" width="500"/>
 </div>
 ## Overview
 This project demonstrates a natural language-driven control of a Tello drone using a Large Language Model (LLM). The system interprets natural language commands, converts them into drone actions, and executes them in sequence. The commands are processed using OpenAI's LLM (e.g., GPT-4) to generate specific drone actions like takeoff, landing, hovering, and directional movements.
